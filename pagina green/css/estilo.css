@@ -1,0 +1,122 @@
+/*Sobre escribiendo las hojas de estilo de bootstrap */
+/* Menu*/
+#menu img {
+    width: 200px;
+}
+
+#menu {
+    background: #185B04 !important;
+}
+
+#menu a {
+    color: #198f15;
+}
+
+#menu a:hover {
+    color: #fff200;
+}
+
+
+/*Portada*/
+#portada img {
+    max-height: 70vh;
+}
+
+/*Footer= pie de pagina*/
+#pie {
+    background: linear-gradient(180deg, #185B04, #339A14);
+    color: white;
+}
+
+#derecho {
+    text-align: center;
+    color: black;
+}
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(33 112 10) !important;
+}
+
+.text {
+    padding-left: 50px;
+    color: #185B04;
+}
+
+.texto {
+    padding-left: 50px;
+}
+
+.row-clase {
+    padding-left: 20px;
+}
+
+.btn-primary {
+    background-color: #23740a;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #23740a;
+    color: white;
+}
+
+.texto-institucional {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.titulo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #23740a;
+    /* Color verde oscuro */
+    margin-bottom: 10px;
+}
+
+.subtitulo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.parrafo {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.lista {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.lista li {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.vision {
+    font-size: 18px;
+    font-weight: bold;
+    color: #23740a;
+    /* Color verde oscuro */
+    margin-bottom: 10px;
+}
+
+.mision {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.valores {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
